@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Hands-On Assignment 2 - Biosketch",
+    "slug": "hands-on-assignment-2-biosketch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "description": "My BioSketch @ UC",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
