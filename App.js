@@ -15,12 +15,13 @@ export default function App() {
 
         <View style={styles.bioCard}>
           <Text style={styles.bio}>
-            Dr. V. Puvvala (a.k.a. Dr. V) is an Assistant Professor at UC where
-            he teaches cybersecurity and Computer Science Courses.
+            Mohan Chaitanya Kolla is a software developer with experience in
+            software engineering and is currently pursuing a PhD at the
+            University of the Cumberlands (UC).
           </Text>
           <Image
             accessibilityLabel="Professional profile portrait"
-            source={require('./assets/profile.png')}
+            source={require('./assets/profile.jpg')}
             style={styles.profile}
           />
         </View>
